@@ -1,6 +1,3 @@
-# atufts96.github.io
-    
-<!doctype html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -17,7 +14,7 @@
     <div class="top-bar">
       <div class="top-bar-left">
         <ul class="menu">
-          <li class="menu-text agilephd">AgilePhD</li>
+          <li class="menu-text agilephd">Tufts Project Management</li>
         </ul>
       </div>
       <div class="top-bar-right">
@@ -28,9 +25,9 @@
     </div>
     <!-- End Top Bar -->
 
-    <div class="callout large scrum">
+    <div class= "callout large scrum">
       <div class="row column text-center bottom">
-        <h1 class="scrum_h1 bottom">Organizational Change Through Agile Methods</h1>
+        <h1 class="scrum_h1 bottom">"Management is, above all, a practice where art, science, and craft meet." ~ Henry Mintzberg</h1>
       </div>
     </div>
 
@@ -40,11 +37,11 @@
           src="https://s3.amazonaws.com/agilephd/project_management.jpg">
       </div>
       <div class="medium-6 columns medium-pull-6">
-        <h2>Agile Project Management</h2>
+        <h2>Tufts Project Management</h2>
         <p>
-          As an experienced agile project manager, AgilePhD is the niche provider
+          As an experienced agile project manager, Tufts Project Manager is the niche provider
           clients seek out when they are looking to implement business-enhancing,
-          agile PMO services that improve project and portfolio performance.
+          versatile PMO services that improve project and portfolio performance.
         </p>
 
       </div>
@@ -54,7 +51,7 @@
       <div class="medium-4 columns">
         <h3>Project Management</h3>
         <p>
-          Speed is what companies want as they adopt Agile. Traditional
+          Speed is what companies want as they adopt Tufts. Traditional
           plan-driven methodologies like Waterfall make a lot of up front
           assumptions and leave no flexibility to adapt to the changing
           needs of the customer.
@@ -64,13 +61,13 @@
         <h3>Software Development</h3>
         <p>
           It's all about that MVP (minimally viable product) and getting
-          it in front of your customers.  I love building technology products.  
+          it in front of your customers.  I love building technology products.
         </p>
       </div>
       <div class="medium-4 columns">
         <h3>Cloud Services</h3>
         <p>
-          As an early adopter several cloud technologies, AgilePhD can
+          As an early adopter several cloud technologies, Tufts PM can
           help you develop a scalable solutions allowing you to focus
           on your core business.
         </p>
